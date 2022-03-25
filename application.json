@@ -1,0 +1,20 @@
+{
+  "isPublic": false,
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#F5D1D1",
+  "icon": "line-chart",
+  "slug": "customer-support-dashboard",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "createdAt": {
+    "seconds": 1644306997,
+    "nanos": 712000000
+  },
+  "deleted": false
+}

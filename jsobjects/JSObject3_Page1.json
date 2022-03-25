@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject3",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tmyFun1: () => {\n\t\t//write code here\n\t},\n\tmyFun2: async () => {\n\t\t//do async stuff here or use JS promises\n\t}\n}",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": []
+      },
+      {
+        "name": "myVar2",
+        "value": {}
+      }
+    ]
+  },
+  "id": "Page1_JSObject3",
+  "deleted": false,
+  "gitSyncId": "6202223556d52d3fd7b7128b_62149f87da926877eb274ae5"
+}
